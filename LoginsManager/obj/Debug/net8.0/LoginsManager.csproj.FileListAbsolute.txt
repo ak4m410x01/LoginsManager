@@ -1,0 +1,14 @@
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\bin\Debug\net8.0\LoginsManager.exe
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\bin\Debug\net8.0\LoginsManager.deps.json
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\bin\Debug\net8.0\LoginsManager.runtimeconfig.json
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\bin\Debug\net8.0\LoginsManager.dll
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\bin\Debug\net8.0\LoginsManager.pdb
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.AssemblyInfoInputs.cache
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.AssemblyInfo.cs
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.csproj.CoreCompileInputs.cache
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.dll
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\refint\LoginsManager.dll
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.pdb
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\LoginsManager.genruntimeconfig.cache
+C:\Users\ak4m410x01\Projects\LoginsManager\LoginsManager\LoginsManager\obj\Debug\net8.0\ref\LoginsManager.dll
